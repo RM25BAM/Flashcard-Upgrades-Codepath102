@@ -1,0 +1,54 @@
+#root {
+  max-width: auto;
+  margin: 0 auto;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.card {
+  padding: 1rem;
+  cursor: pointer;
+}
+.card:hover{
+  box-shadow:'0 0 16px rgba(154, 171, 158, 1)';
+  transition: box-shadow 0.3s;
+}
+
+.read-the-docs {
+  color: #888;
+}
+.card_main {
+  text-align: center;
+}
+/* Button Styles */
+.button {
+  background-color: #5c51bd; 
+  border: none; 
+  color: white; 
+  padding: 15px 32px; 
+  text-align: center; 
+  text-decoration: none; 
+  display: inline-block;
+  font-size: 16px; 
+  margin: 4px 2px; 
+  cursor: pointer; 
+  border-radius: 8px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  transition: background-color 0.3s, transform 0.2s; 
+}
+
+
+.button:hover {
+  background-color: #201363;
+  transform: translateY(-2px); 
+}
+
+/* Button Active Effect */
+.button:active {
+  background-color: #201363; 
+  transform: translateY(1px); 
+}
