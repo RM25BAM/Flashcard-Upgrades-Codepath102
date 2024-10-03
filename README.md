@@ -42,7 +42,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had some issues with implementing the flashcards and using useState it was difficult to implement. 
 
 ## License
 
