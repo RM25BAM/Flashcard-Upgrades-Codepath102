@@ -43,7 +43,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='./demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
+[CLICK ME](https://flashcard-upgrades-codepath102.vercel.app)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
