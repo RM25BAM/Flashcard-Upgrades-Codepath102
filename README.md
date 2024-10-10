@@ -1,4 +1,4 @@
-# Web Development Project 2 - *Flashcard App for Computational Nueroscience Upgrade*
+# Web Development Project 3 - *Flashcard App for Computational Nueroscience Upgrade*
 
 Submitted by: **Natasha Piedrabuena**
 
