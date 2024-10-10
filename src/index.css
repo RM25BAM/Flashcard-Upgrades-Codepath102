@@ -66,3 +66,12 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+.input-section input {
+  padding: 10px;
+  border-radius: 20px; /* Rounded input */
+  border: 1px solid #ccc;
+  font-size: 16px;
+  margin-right: 10px; /* Space between input and button */
+  width: 70%; /* Adjust width as needed */
+}
+

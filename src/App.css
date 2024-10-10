@@ -52,3 +52,21 @@
   background-color: #201363; 
   transform: translateY(1px); 
 }
+.feedback {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+.correct {
+  color: green;
+}
+.incorrect {
+  color: red;
+}
+.input-section input {
+  padding: 10px;
+  border-radius: 20px; /* Rounded input */
+  border: 1px solid #ccc;
+  font-size: 16px;
+  margin-right: 10px; /* Space between input and button */
+  width: 50%; /* Adjust width as needed */
+}
